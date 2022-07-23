@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepkrg17
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Android Development.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=deepkrg17&show_icons=true&icon_color=00fd7f&theme=dark&title_color=00fd7f&hide=stars&text_color=00ffb1ec) 
 
